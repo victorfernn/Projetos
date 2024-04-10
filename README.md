@@ -1,3 +1,2 @@
-# Projetos
-Todos os meu projetos
-Aqui é uma calculadora, feita com javascript, html e css;
+# 1º Projeto:
+## Este é um projeto voltado ao front-end, onde faço uma calculadora web usando HTML, CSS e JavaScript.
